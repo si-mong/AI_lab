@@ -1,1 +1,1 @@
-# AI_lecture_2025
+# AI_lab_2025
