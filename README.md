@@ -1,5 +1,6 @@
 # AI_lab_2025
-
+- EunJae Choi 2023078086
+- 2025-02 Artificial intelligence
 ## Development Environment
 ### Hardware
 - GPU: None
